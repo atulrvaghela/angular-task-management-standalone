@@ -1,0 +1,5 @@
+div {
+    border-radius: 6px;
+    box-shadow: 5 5px 6px rgba(253, 141, 141, 0.1);
+    overflow: hidden;
+}
